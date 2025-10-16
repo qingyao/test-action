@@ -1,0 +1,2 @@
+epoch	max_length	best_fbeta	threshold	accuracy	precision	recall	confusion matrix
+12	806	0.735632183908046	0.2599999999999999	0.7982	0.6809	0.8000	[[118, 30], [16, 64]]
